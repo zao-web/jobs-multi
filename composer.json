@@ -1,5 +1,5 @@
 {
-  "name": "jobapis/jobs-multi",
+  "name": "zao-web/jobs-multi",
   "type": "library",
   "description": "Making it easy to get jobs from multiple job boards.",
   "keywords": [
