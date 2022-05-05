@@ -12,6 +12,18 @@
     {
         "type": "vcs",
         "url": "https://github.com/zao-web/jobs-common.git"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/zao-web/jobs-indeed.git"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/zao-web/jobs-monster.git"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/zao-web/jobs-ziprecruiter.git"
     }
   ],
   "homepage": "http://jobapis.com",
@@ -24,23 +36,11 @@
     }
   ],
   "require": {
-    "php": ">=5.5.0",
-    "jobapis/jobs-careerbuilder": "^2.0.3",
-    "jobapis/jobs-careercast": "^1.0.1",
-    "jobapis/jobs-careerjet": "^0.1.0",
+    "php": ">=7.4.0",
     "zao-web/jobs-common": "dev-master",
-    "jobapis/jobs-dice": "^1.0.0",
-    "jobapis/jobs-github": "^1.0.0",
-    "jobapis/jobs-govt": "^1.0.0",
-    "jobapis/jobs-ieee": "^0.1.0",
-    "jobapis/jobs-indeed": "^1.0.0",
-    "jobapis/jobs-jobinventory": "^0.1.0",
-    "jobapis/jobs-jobs2careers": "^2.0.0",
-    "jobapis/jobs-juju": "^2.0.0",
-    "jobapis/jobs-monster": "^0.1.0",
-    "jobapis/jobs-stackoverflow": "^0.1.0",
-    "jobapis/jobs-usajobs": "^0.2.0",
-    "jobapis/jobs-ziprecruiter": "^1.0.0"
+    "zao-web/jobs-indeed": "dev-master",
+    "zao-web/jobs-monster": "dev-master",
+    "zao-web/jobs-ziprecruiter": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": ">=4.6",
