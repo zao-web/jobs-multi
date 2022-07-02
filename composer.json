@@ -45,7 +45,7 @@
     "zao-web/jobs-indeed": "dev-master",
     "zao-web/jobs-monster": "dev-master",
     "zao-web/jobs-ziprecruiter": "dev-master",
-    "zao-web/jobs-careerbuilder": "dev-master"
+    "zao-web/jobs-careerbuilder": "dev-main"
   },
   "require-dev": {
     "phpunit/phpunit": ">=4.6",
